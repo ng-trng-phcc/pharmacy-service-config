@@ -25,4 +25,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 pharmacy:
-  vat-rate: 10
+  vat-rate: 8
